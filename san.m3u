@@ -156,22 +156,6 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/14209/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15509/index.m3u8
 #EXTINF:0  group-title="Кино", Yosso TV New Кино
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/14177/index.m3u8
-#EXTINF:0  group-title="Кино", Kinoshka Thriller HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18055/index.m3u8
-#EXTINF:0  group-title="Кино", Kinoshka Kids HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18056/index.m3u8
-#EXTINF:0  group-title="Кино", Kinoshka Comedy HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18057/index.m3u8
-#EXTINF:0  group-title="Кино", Kinoshka Russian HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18058/index.m3u8
-#EXTINF:0  group-title="Кино", Kinoshka Mystic HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18059/index.m3u8
-#EXTINF:0  group-title="Кино", Kinoshka Premiere HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18117/index.m3u8
-#EXTINF:0  group-title="Кино", Kinoshka Action HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18118/index.m3u8
-#EXTINF:0  group-title="Кино", Kinoshka Drama HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18150/index.m3u8
 #EXTINF:0  group-title="Кино", Киноман
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2121/index.m3u8
 #EXTINF:0  group-title="Кино", CineMan
@@ -2172,3 +2156,19 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31535/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31536/index.m3u8
 #EXTINF:0  group-title="Не рабочие", KLI Fantastic HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18050/index.m3u8
+#EXTINF:0  group-title="Не рабочие", Kinoshka Thriller HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18055/index.m3u8
+#EXTINF:0  group-title="Не рабочие", Kinoshka Kids HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18056/index.m3u8
+#EXTINF:0  group-title="Не рабочие", Kinoshka Comedy HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18057/index.m3u8
+#EXTINF:0  group-title="Не рабочие", Kinoshka Russian HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18058/index.m3u8
+#EXTINF:0  group-title="Не рабочие", Kinoshka Mystic HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18059/index.m3u8
+#EXTINF:0  group-title="Не рабочие", Kinoshka Premiere HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18117/index.m3u8
+#EXTINF:0  group-title="Не рабочие", Kinoshka Action HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18118/index.m3u8
+#EXTINF:0  group-title="Не рабочие", Kinoshka Drama HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18150/index.m3u8
