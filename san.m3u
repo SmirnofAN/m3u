@@ -81,8 +81,14 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15106/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15090/index.m3u8
 #EXTINF:0  group-title="Основные", Триколор Ментовские войны
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18128/index.m3u8
+#EXTINF:0  group-title="Основные", CineMan Ментовские войны
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/16063/index.m3u8
+#EXTINF:0  group-title="Основные", VF Тайны следствия
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/13082/index.m3u8
 
 # Кино
+#EXTINF:0  group-title="Кино", Viju TV1000 Русское HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/6388/index.m3u8
 #EXTINF:0  group-title="Кино", Yosso TV Русские Фильмы
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/14174/index.m3u8
 #EXTINF:0  group-title="Кино", MM Киберпанк HD
@@ -1779,9 +1785,3 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2541/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31659/index.m3u8
 #EXTINF:0  group-title="Не рабочие", Liberty Кино UKR FHD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31660/index.m3u8
-#EXTINF:0  group-title="Не рабочие", VF Тайны следствия
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/13082/index.m3u8
-#EXTINF:0  group-title="Не рабочие", CineMan Ментовские войны
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/16063/index.m3u8
-#EXTINF:0  group-title="Не рабочие", Viju TV1000 Русское HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/6388/index.m3u8
