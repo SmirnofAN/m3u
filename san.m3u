@@ -1,5 +1,4 @@
-#EXTM3U catchup="shift" catchup-days="3" url-tvg="http://epg.it999.ru/edem.xml.gz" m3uautoload=1
-
+#EXTM3U url-tvg="http://ru.epg.one/epg2.xml.gz"
 # Основные
 #EXTINF:0  group-title="Основные", НТВ HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/213/index.m3u8
@@ -83,8 +82,6 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15090/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18128/index.m3u8
 #EXTINF:0  group-title="Основные", CineMan Ментовские войны
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/16063/index.m3u8
-#EXTINF:0  group-title="Основные", VF Тайны следствия
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/13082/index.m3u8
 
 # Кино
 #EXTINF:0  group-title="Кино", Viju TV1000 Русское HD
@@ -273,6 +270,148 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2577/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2578/index.m3u8
 #EXTINF:0  group-title="Кино", Зал 12
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2579/index.m3u8
+#EXTINF:0  group-title="Кино", Дорама
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/1066/index.m3u8
+#EXTINF:0  group-title="Кино", FilmBox
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/1071/index.m3u8
+#EXTINF:0  group-title="Кино", FX
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/6516/index.m3u8
+#EXTINF:0  group-title="Кино", FX Life
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/9232/index.m3u8
+#EXTINF:0  group-title="Кино", .red
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/559/index.m3u8
+#EXTINF:0  group-title="Кино", .sci-fi
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/110/index.m3u8
+#EXTINF:0  group-title="Кино", Viju+ Comedy HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/200/index.m3u8
+#EXTINF:0  group-title="Кино", Viju+ Serial HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2443/index.m3u8
+#EXTINF:0  group-title="Кино", Индийское Кино
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/146/index.m3u8
+#EXTINF:0  group-title="Кино", Русский роман
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/906/index.m3u8
+#EXTINF:0  group-title="Кино", Русский иллюзион
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/547/index.m3u8
+#EXTINF:0  group-title="Кино", Comedy Central
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/157/index.m3u8
+#EXTINF:0  group-title="Кино", Bollywood HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/239/index.m3u8
+#EXTINF:0  group-title="Кино", Hollywood
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/557/index.m3u8
+#EXTINF:0  group-title="Кино", Hollywood HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/209/index.m3u8
+#EXTINF:0  group-title="Кино", .black
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/708/index.m3u8
+#EXTINF:0  group-title="Кино", Комедия
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/733/index.m3u8
+#EXTINF:0  group-title="Кино", Премиальное HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/7222/index.m3u8
+#EXTINF:0  group-title="Кино", Душевное HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/914/index.m3u8
+#EXTINF:0  group-title="Кино", Кинопоказ HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2439/index.m3u8
+#EXTINF:0  group-title="Кино", Комедийное HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/912/index.m3u8
+#EXTINF:0  group-title="Кино", Хит HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2438/index.m3u8
+#EXTINF:0  group-title="Кино", Наш Кинопоказ HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2434/index.m3u8
+#EXTINF:0  group-title="Кино", Романтичное HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/5053/index.m3u8
+#EXTINF:0  group-title="Кино", Наше Мужское HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2440/index.m3u8
+#EXTINF:0  group-title="Кино", Блокбастер HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2436/index.m3u8
+#EXTINF:0  group-title="Кино", Арсенал HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/5044/index.m3u8
+#EXTINF:0  group-title="Кино", Trash HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/6396/index.m3u8
+#EXTINF:0  group-title="Кино", Про Любовь HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2430/index.m3u8
+#EXTINF:0  group-title="Кино", Камеди HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2441/index.m3u8
+#EXTINF:0  group-title="Кино", Любимое HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2106/index.m3u8
+#EXTINF:0  group-title="Кино", CineMan Лесник
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/16065/index.m3u8
+#EXTINF:0  group-title="Кино", Z!Channel HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/14134/index.m3u8
+#EXTINF:0  group-title="Кино", Z!Action HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31694/index.m3u8
+#EXTINF:0  group-title="Кино", Z!Adventure HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31698/index.m3u8
+#EXTINF:0  group-title="Кино", Z!Biography HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31697/index.m3u8
+#EXTINF:0  group-title="Кино", Z!Comedy HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/14135/index.m3u8
+#EXTINF:0  group-title="Кино", Z!Crime HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/14136/index.m3u8
+#EXTINF:0  group-title="Кино", Z!Detective HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31699/index.m3u8
+#EXTINF:0  group-title="Кино", Z!Drama HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31700/index.m3u8
+#EXTINF:0  group-title="Кино", Z!Family HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31701/index.m3u8
+#EXTINF:0  group-title="Кино", Z!History HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31695/index.m3u8
+#EXTINF:0  group-title="Кино", Z!Horror HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/14137/index.m3u8
+#EXTINF:0  group-title="Кино", Z!Russian HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31704/index.m3u8
+#EXTINF:0  group-title="Кино", Z!Serial HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15140/index.m3u8
+#EXTINF:0  group-title="Кино", Z!Sitcom HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15141/index.m3u8
+#EXTINF:0  group-title="Кино", Z!Smile HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15142/index.m3u8
+#EXTINF:0  group-title="Кино", Z!Thriller HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31693/index.m3u8
+#EXTINF:0  group-title="Кино", Z!Travel HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/17063/index.m3u8
+#EXTINF:0  group-title="Кино", Z!Fun HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31706/index.m3u8
+#EXTINF:0  group-title="Кино", Z!Military HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31696/index.m3u8
+#EXTINF:0  group-title="Кино", Z!Science HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31705/index.m3u8
+#EXTINF:0  group-title="Кино", MS Animated HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/17024/index.m3u8
+#EXTINF:0  group-title="Кино", MS Prisons HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15137/index.m3u8
+#EXTINF:0  group-title="Кино", MS Toons HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15138/index.m3u8
+#EXTINF:0  group-title="Кино", MS Young Blood HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/16147/index.m3u8
+#EXTINF:0  group-title="Кино", Fresh Soviet
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19301/index.m3u8
+#EXTINF:0  group-title="Кино", Fresh VHS
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19293/index.m3u8
+#EXTINF:0  group-title="Кино", Fresh Premiere
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19290/index.m3u8
+#EXTINF:0  group-title="Кино", Fresh Comedy
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19289/index.m3u8
+#EXTINF:0  group-title="Кино", Fresh Kids
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19288/index.m3u8
+#EXTINF:0  group-title="Кино", Fresh Cinema
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19287/index.m3u8
+#EXTINF:0  group-title="Кино", Fresh Romantic
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19298/index.m3u8
+#EXTINF:0  group-title="Кино", Fresh Russian
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19299/index.m3u8
+#EXTINF:0  group-title="Кино", Fresh Thriller
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19300/index.m3u8
+#EXTINF:0  group-title="Кино", Liberty Легенда 4K
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19308/index.m3u8
+#EXTINF:0  group-title="Кино", Liberty Кино Микс 4K
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15110/index.m3u8
+#EXTINF:0  group-title="Кино", Liberty XX Век 4K
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/20173/index.m3u8
+#EXTINF:0  group-title="Кино", START World HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19248/index.m3u8
+#EXTINF:0  group-title="Кино", Патриот
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31928/index.m3u8
+#EXTINF:0  group-title="Кино", Сапфир
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/553/index.m3u8
 
 # Советские и старые фильмы
 #EXTINF:0  group-title="Советские и старые фильмы", Мосфильм. Золотая коллекция HD
@@ -365,14 +504,10 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/5033/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/6370/index.m3u8
 
 # Остальные
-#EXTINF:0  group-title="Остальные", Премиальное HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/7222/index.m3u8
 #EXTINF:0  group-title="Остальные", KinoJam 1 HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/7260/index.m3u8
 #EXTINF:0  group-title="Остальные", KinoJam 2 HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/7261/index.m3u8
-#EXTINF:0  group-title="Остальные", CineMan Лесник
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/16065/index.m3u8
 #EXTINF:0  group-title="Остальные", MM Семейный 1 HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/13097/index.m3u8
 #EXTINF:0  group-title="Остальные", VF Бесстыжие
@@ -385,16 +520,8 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/17035/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/14006/index.m3u8
 #EXTINF:0  group-title="Остальные", BCU TruMotion HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/17054/index.m3u8
-#EXTINF:0  group-title="Остальные", .sci-fi
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/110/index.m3u8
 #EXTINF:0  group-title="Остальные", Кинеко
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/550/index.m3u8
-#EXTINF:0  group-title="Остальные", Сапфир
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/553/index.m3u8
-#EXTINF:0  group-title="Остальные", .red
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/559/index.m3u8
-#EXTINF:0  group-title="Остальные", .black
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/708/index.m3u8
 #EXTINF:0  group-title="Остальные", Eye Cyber HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/20220/index.m3u8
 #EXTINF:0  group-title="Остальные", Индия
@@ -457,8 +584,6 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/13043/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/13045/index.m3u8
 #EXTINF:0  group-title="Остальные", MM Ситком HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/13052/index.m3u8
-#EXTINF:0  group-title="Остальные", MM Скорость HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/13053/index.m3u8
 #EXTINF:0  group-title="Остальные", MM Триллер HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/13058/index.m3u8
 #EXTINF:0  group-title="Остальные", MM Синематограф HD
@@ -527,50 +652,20 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15087/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15095/index.m3u8
 #EXTINF:0  group-title="Остальные", Liberty Боевики FHD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15096/index.m3u8
-#EXTINF:0  group-title="Остальные", Liberty Кино Микс 4K
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15110/index.m3u8
 #EXTINF:0  group-title="Остальные", Liberty Симпсоны FHD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15111/index.m3u8
 #EXTINF:0  group-title="Остальные", Liberty Комедии FHD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/16054/index.m3u8
 #EXTINF:0  group-title="Остальные", Liberty РусФильм 4K
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18046/index.m3u8
-#EXTINF:0  group-title="Остальные", Liberty Индия 4K
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18160/index.m3u8
 #EXTINF:0  group-title="Остальные", Liberty Куб 4K
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18161/index.m3u8
 #EXTINF:0  group-title="Остальные", Liberty Семейный 4K
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18178/index.m3u8
 #EXTINF:0  group-title="Остальные", CineMan Симпсоны
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15101/index.m3u8
-#EXTINF:0  group-title="Остальные", MS Prisons HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15137/index.m3u8
-#EXTINF:0  group-title="Остальные", MS Toons HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15138/index.m3u8
-#EXTINF:0  group-title="Остальные", MS Young Blood HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/16147/index.m3u8
-#EXTINF:0  group-title="Остальные", MS Animated HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/17024/index.m3u8
 #EXTINF:0  group-title="Остальные", Citrus Cartoon
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/16050/index.m3u8
-#EXTINF:0  group-title="Остальные", Fresh Cinema
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19287/index.m3u8
-#EXTINF:0  group-title="Остальные", Fresh Kids
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19288/index.m3u8
-#EXTINF:0  group-title="Остальные", Fresh Comedy
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19289/index.m3u8
-#EXTINF:0  group-title="Остальные", Fresh Premiere
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19290/index.m3u8
-#EXTINF:0  group-title="Остальные", Fresh VHS
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19293/index.m3u8
-#EXTINF:0  group-title="Остальные", Fresh Romantic
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19298/index.m3u8
-#EXTINF:0  group-title="Остальные", Fresh Russian
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19299/index.m3u8
-#EXTINF:0  group-title="Остальные", Fresh Thriller
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19300/index.m3u8
-#EXTINF:0  group-title="Остальные", Fresh Soviet
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19301/index.m3u8
 #EXTINF:0  group-title="Остальные", Eye Media HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/17064/index.m3u8
 #EXTINF:0  group-title="Остальные", Eye Oscar HD
@@ -633,12 +728,8 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19414/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19436/index.m3u8
 #EXTINF:0  group-title="Остальные", Vostok TV
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/1054/index.m3u8
-#EXTINF:0  group-title="Остальные", Жар Птица
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2142/index.m3u8
 #EXTINF:0  group-title="Остальные", AIVA TV HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2156/index.m3u8
-#EXTINF:0  group-title="Остальные", Trace Urban HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15107/index.m3u8
 #EXTINF:0  group-title="Остальные", Kiss Kiss Italia HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/16073/index.m3u8
 #EXTINF:0  group-title="Остальные", NM Television HD
@@ -649,10 +740,6 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/14007/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/129/index.m3u8
 #EXTINF:0  group-title="Остальные", О!
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/727/index.m3u8
-#EXTINF:0  group-title="Остальные", Рыжий
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2052/index.m3u8
-#EXTINF:0  group-title="Остальные", Уникум
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/730/index.m3u8
 #EXTINF:0  group-title="Остальные", BCU Little HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19425/index.m3u8
 #EXTINF:0  group-title="Остальные", РБК HD
@@ -789,8 +876,6 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/872/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/14024/index.m3u8
 #EXTINF:0  group-title="Остальные", Жара
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/105/index.m3u8
-#EXTINF:0  group-title="Остальные", Comedy Central
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/157/index.m3u8
 #EXTINF:0  group-title="Остальные", World Fashion Channel
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/1068/index.m3u8
 #EXTINF:0  group-title="Остальные", Мужской
@@ -907,8 +992,6 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/14001/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/9135/index.m3u8
 #EXTINF:0  group-title="Остальные", Viju History HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/203/index.m3u8
-#EXTINF:0  group-title="Остальные", Hollywood HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/209/index.m3u8
 #EXTINF:0  group-title="Остальные", RTG HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/210/index.m3u8
 #EXTINF:0  group-title="Остальные", Discovery Channel HD
@@ -919,12 +1002,8 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/230/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/231/index.m3u8
 #EXTINF:0  group-title="Остальные", TLC HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/232/index.m3u8
-#EXTINF:0  group-title="Остальные", Комедийное HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/912/index.m3u8
 #EXTINF:0  group-title="Остальные", Охотник и Рыболов HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/917/index.m3u8
-#EXTINF:0  group-title="Остальные", Bollywood HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/239/index.m3u8
 #EXTINF:0  group-title="Остальные", Настоящее время
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/986/index.m3u8
 #EXTINF:0  group-title="Остальные", Первый космический HD
@@ -953,8 +1032,6 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2089/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2090/index.m3u8
 #EXTINF:0  group-title="Остальные", Investigation Discovery HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2102/index.m3u8
-#EXTINF:0  group-title="Остальные", Глазами Туриста HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2104/index.m3u8
 #EXTINF:0  group-title="Остальные", Мир 24 HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2107/index.m3u8
 #EXTINF:0  group-title="Остальные", БСТ HD
@@ -971,30 +1048,8 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2131/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2135/index.m3u8
 #EXTINF:0  group-title="Остальные", о2тв HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2141/index.m3u8
-#EXTINF:0  group-title="Остальные", Арсенал HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/5044/index.m3u8
 #EXTINF:0  group-title="Остальные", Galaxy HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/5045/index.m3u8
-#EXTINF:0  group-title="Остальные", Победа HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/5052/index.m3u8
-#EXTINF:0  group-title="Остальные", Романтичное HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/5053/index.m3u8
-#EXTINF:0  group-title="Остальные", Про Любовь HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2430/index.m3u8
-#EXTINF:0  group-title="Остальные", Наш Кинопоказ HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2434/index.m3u8
-#EXTINF:0  group-title="Остальные", Блокбастер HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2436/index.m3u8
-#EXTINF:0  group-title="Остальные", Хит HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2438/index.m3u8
-#EXTINF:0  group-title="Остальные", Кинопоказ HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2439/index.m3u8
-#EXTINF:0  group-title="Остальные", Наше Мужское HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2440/index.m3u8
-#EXTINF:0  group-title="Остальные", Камеди HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2441/index.m3u8
-#EXTINF:0  group-title="Остальные", Viju+ Serial HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2443/index.m3u8
 #EXTINF:0  group-title="Остальные", Авто Плюс HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/6369/index.m3u8
 #EXTINF:0  group-title="Остальные", Сапфир HD
@@ -1003,8 +1058,6 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/6389/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/6391/index.m3u8
 #EXTINF:0  group-title="Остальные", Spirit TV HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/10073/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU Multserial HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11025/index.m3u8
 #EXTINF:0  group-title="Остальные", BCU Action HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11027/index.m3u8
 #EXTINF:0  group-title="Остальные", BCU Catastrophe HD
@@ -1017,10 +1070,6 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15026/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11033/index.m3u8
 #EXTINF:0  group-title="Остальные", BCU History HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11034/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU Kids HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11035/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU Kids+ HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11036/index.m3u8
 #EXTINF:0  group-title="Остальные", BCU Kinorating HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11037/index.m3u8
 #EXTINF:0  group-title="Остальные", BCU Premiere HD
@@ -1037,8 +1086,6 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11043/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11044/index.m3u8
 #EXTINF:0  group-title="Остальные", BCU Ultra 4K
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11045/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU RuSerial HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11046/index.m3u8
 #EXTINF:0  group-title="Остальные", BCU Criminal HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11048/index.m3u8
 #EXTINF:0  group-title="Остальные", BCU Reality HD
@@ -1055,10 +1102,6 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/17028/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/17029/index.m3u8
 #EXTINF:0  group-title="Остальные", Liberty Шоу FHD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/17030/index.m3u8
-#EXTINF:0  group-title="Остальные", START World HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19248/index.m3u8
-#EXTINF:0  group-title="Остальные", Индия HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19250/index.m3u8
 #EXTINF:0  group-title="Остальные", Liberty Планктон FHD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/20140/index.m3u8
 #EXTINF:0  group-title="Остальные", BOX Docu HD
@@ -1111,10 +1154,6 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/20023/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15102/index.m3u8
 #EXTINF:0  group-title="Остальные", Citrus Holiday
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/16089/index.m3u8
-#EXTINF:0  group-title="Остальные", FX
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/6516/index.m3u8
-#EXTINF:0  group-title="Остальные", FX Life
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/9232/index.m3u8
 #EXTINF:0  group-title="Остальные", FX HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19216/index.m3u8
 #EXTINF:0  group-title="Остальные", CineMan ПёС + Лихач
@@ -1133,20 +1172,6 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31638/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31641/index.m3u8
 #EXTINF:0  group-title="Остальные", BOX Apocalypse HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31655/index.m3u8
-#EXTINF:0  group-title="Остальные", Z!Thriller HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31693/index.m3u8
-#EXTINF:0  group-title="Остальные", Z!Action HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31694/index.m3u8
-#EXTINF:0  group-title="Остальные", Z!Adventure HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31698/index.m3u8
-#EXTINF:0  group-title="Остальные", Z!Drama HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31700/index.m3u8
-#EXTINF:0  group-title="Остальные", Z!Family HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31701/index.m3u8
-#EXTINF:0  group-title="Остальные", Z!Russian HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31704/index.m3u8
-#EXTINF:0  group-title="Остальные", Z!Fun HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31706/index.m3u8
 #EXTINF:0  group-title="Остальные", Sochi Music HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/16070/index.m3u8
 #EXTINF:0  group-title="Остальные", Конгресс ТВ HD
@@ -1167,6 +1192,8 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/20033/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/20034/index.m3u8
 #EXTINF:0  group-title="Остальные", Мужской HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/20035/index.m3u8
+#EXTINF:0  group-title="Остальные", National Geographic 
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/14000/index.m3u8
 #EXTINF:0  group-title="Остальные", E TV
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/736/index.m3u8
 #EXTINF:0  group-title="Остальные", Yosso TV Food
@@ -1183,14 +1210,6 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31652/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31653/index.m3u8
 #EXTINF:0  group-title="Остальные", BOX AutoTrend HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31654/index.m3u8
-#EXTINF:0  group-title="Остальные", Z!History HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31695/index.m3u8
-#EXTINF:0  group-title="Остальные", Z!Military HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31696/index.m3u8
-#EXTINF:0  group-title="Остальные", Z!Biography HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31697/index.m3u8
-#EXTINF:0  group-title="Остальные", Z!Science HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31705/index.m3u8
 #EXTINF:0  group-title="Остальные", Cartoon Classics
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2075/index.m3u8
 #EXTINF:0  group-title="Остальные", КиноМульт
@@ -1233,8 +1252,6 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/20018/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/9179/index.m3u8
 #EXTINF:0  group-title="Остальные", FX Life HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/14003/index.m3u8
-#EXTINF:0  group-title="Остальные", Viju+ Comedy HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/200/index.m3u8
 #EXTINF:0  group-title="Остальные", Gametoon HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/5049/index.m3u8
 #EXTINF:0  group-title="Остальные", BCU Comedy HDR
@@ -1265,10 +1282,6 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19304/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19305/index.m3u8
 #EXTINF:0  group-title="Остальные", Liberty МиМ FHD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19306/index.m3u8
-#EXTINF:0  group-title="Остальные", Liberty Легенда 4K
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19308/index.m3u8
-#EXTINF:0  group-title="Остальные", Liberty XX Век 4K
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/20173/index.m3u8
 #EXTINF:0  group-title="Остальные", BOX Premiere 4K
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/20157/index.m3u8
 #EXTINF:0  group-title="Остальные", BOX Remast 4K
@@ -1293,10 +1306,6 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18039/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18042/index.m3u8
 #EXTINF:0  group-title="Остальные", ТВ 21
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/525/index.m3u8
-#EXTINF:0  group-title="Остальные", Комедия
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/733/index.m3u8
-#EXTINF:0  group-title="Остальные", FilmBox
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/1071/index.m3u8
 #EXTINF:0  group-title="Остальные", FlixSnip HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/10060/index.m3u8
 #EXTINF:0  group-title="Остальные", PG VHS HD
@@ -1305,14 +1314,6 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15000/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11120/index.m3u8
 #EXTINF:0  group-title="Остальные", MM Live Planet HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/13095/index.m3u8
-#EXTINF:0  group-title="Остальные", Z!Channel HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/14134/index.m3u8
-#EXTINF:0  group-title="Остальные", Z!Comedy HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/14135/index.m3u8
-#EXTINF:0  group-title="Остальные", Z!Crime HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/14136/index.m3u8
-#EXTINF:0  group-title="Остальные", Z!Horror HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/14137/index.m3u8
 #EXTINF:0  group-title="Остальные", Yosso TV Best 60fps
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/20165/index.m3u8
 #EXTINF:0  group-title="Остальные", Liberty Триллеры 4K
@@ -1337,8 +1338,6 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18129/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18137/index.m3u8
 #EXTINF:0  group-title="Остальные", PG Insomnia HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19398/index.m3u8
-#EXTINF:0  group-title="Остальные", Z!Detective HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31699/index.m3u8
 #EXTINF:0  group-title="Остальные", StrahTV Horror HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31708/index.m3u8
 #EXTINF:0  group-title="Остальные", StrahTV Байки из склепа
@@ -1383,8 +1382,6 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/993/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/1052/index.m3u8
 #EXTINF:0  group-title="Остальные", History FHD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/837/index.m3u8
-#EXTINF:0  group-title="Остальные", Z!Travel HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/17063/index.m3u8
 #EXTINF:0  group-title="Остальные", KinoKazka
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15019/index.m3u8
 #EXTINF:0  group-title="Остальные", Gulli Girl
@@ -1469,8 +1466,6 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/218/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/223/index.m3u8
 #EXTINF:0  group-title="Остальные", Точка.РФ FHD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/226/index.m3u8
-#EXTINF:0  group-title="Остальные", Душевное HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/914/index.m3u8
 #EXTINF:0  group-title="Остальные", FoodTime HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/918/index.m3u8
 #EXTINF:0  group-title="Остальные", Bridge Deluxe HD
@@ -1479,8 +1474,6 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/236/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2033/index.m3u8
 #EXTINF:0  group-title="Остальные", Fashion & Lifestyle HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2044/index.m3u8
-#EXTINF:0  group-title="Остальные", Любимое HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2106/index.m3u8
 #EXTINF:0  group-title="Остальные", Clubbing TV HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2395/index.m3u8
 #EXTINF:0  group-title="Остальные", Viju Explore HD
@@ -1521,12 +1514,6 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11099/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11100/index.m3u8
 #EXTINF:0  group-title="Остальные", PG Serial HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11101/index.m3u8
-#EXTINF:0  group-title="Остальные", Z!Serial HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15140/index.m3u8
-#EXTINF:0  group-title="Остальные", Z!Sitcom HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15141/index.m3u8
-#EXTINF:0  group-title="Остальные", Z!Smile HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15142/index.m3u8
 #EXTINF:0  group-title="Остальные", Plan_B HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19249/index.m3u8
 #EXTINF:0  group-title="Остальные", Точка.РФ HD
@@ -1557,28 +1544,16 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19402/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/702/index.m3u8
 #EXTINF:0  group-title="Остальные", СТС Love
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/103/index.m3u8
-#EXTINF:0  group-title="Остальные", Индийское Кино
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/146/index.m3u8
-#EXTINF:0  group-title="Остальные", Trash HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/6396/index.m3u8
 #EXTINF:0  group-title="Остальные", VeleS Киносерия
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31640/index.m3u8
 #EXTINF:0  group-title="Остальные", Любимое Кино
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/722/index.m3u8
-#EXTINF:0  group-title="Остальные", Русский иллюзион
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/547/index.m3u8
 #EXTINF:0  group-title="Остальные", Феникс плюс Кино
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2039/index.m3u8
-#EXTINF:0  group-title="Остальные", Русский роман
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/906/index.m3u8
 #EXTINF:0  group-title="Остальные", Shot TV
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/526/index.m3u8
-#EXTINF:0  group-title="Остальные", Hollywood
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/557/index.m3u8
 #EXTINF:0  group-title="Остальные", FAN
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/734/index.m3u8
-#EXTINF:0  group-title="Остальные", Дорама
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/1066/index.m3u8
 #EXTINF:0  group-title="Остальные", StrahTV Весёлая Карусель HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11057/index.m3u8
 #EXTINF:0  group-title="Остальные", РБК HD 50
@@ -1609,6 +1584,8 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/10017/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/10024/index.m3u8
 #EXTINF:0  group-title="Остальные", FoodTime HD 50
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/10025/index.m3u8
+#EXTINF:0  group-title="Остальные", VF Владимир Высоцкий 
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/10066/index.m3u8
 #EXTINF:0  group-title="Остальные", Госфильмофонд. Машина времени HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31929/index.m3u8
 #EXTINF:0  group-title="Остальные", 4K Русское кино HD
@@ -1621,60 +1598,14 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31549/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11054/index.m3u8
 #EXTINF:0  group-title="Остальные", Диалоги о рыбалке HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2394/index.m3u8
+#EXTINF:0  group-title="Остальные", Глазами Туриста HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2104/index.m3u8
+#EXTINF:0  group-title="Остальные", RU TV
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/838/index.m3u8
+#EXTINF:0  group-title="Остальные", Музыка Live
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2043/index.m3u8
 #EXTINF:0  group-title="Остальные", Инфоканал
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/435/index.m3u8
-#EXTINF:0  group-title="Остальные", Остросюжетное HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/904/index.m3u8
-#EXTINF:0  group-title="Остальные", Amedia 2
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/510/index.m3u8
-#EXTINF:0  group-title="Остальные", Премиальное HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/7222/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU СССР HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11026/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU Action HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11027/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU Catastrophe HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11028/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU Cinema HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11029/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU Cinema+ HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11030/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU Fantastic HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11032/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU FilMystic HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11033/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU History HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11034/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU Kinorating HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11037/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU Premiere HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11039/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU Romantic HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11040/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU Russian HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11041/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU VHS HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11042/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU Stars HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11044/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU Ultra 4K
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11045/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU Сваты HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11047/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU Criminal HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11048/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU Premiere Ultra 4K
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15023/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU Marvel HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15025/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU Comedy HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/15026/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU Reality HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/16082/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU Cosmo HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/17021/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU TruMotion HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/17054/index.m3u8
 #EXTINF:0  group-title="Остальные", MM Ситком 2.0 HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/13046/index.m3u8
 #EXTINF:0  group-title="Остальные", MM Погружение HD
@@ -1687,101 +1618,11 @@ http://san1978.megatv.fun/iptv/CTF58AWU84F85E/17060/index.m3u8
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/17061/index.m3u8
 #EXTINF:0  group-title="Остальные", Liberty Кино UKR 4K
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18045/index.m3u8
-#EXTINF:0  group-title="Остальные", Fresh Cinema
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19287/index.m3u8
-#EXTINF:0  group-title="Остальные", Fresh Kids
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19288/index.m3u8
-#EXTINF:0  group-title="Остальные", Fresh Comedy
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19289/index.m3u8
-#EXTINF:0  group-title="Остальные", Fresh Premiere
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19290/index.m3u8
-#EXTINF:0  group-title="Остальные", Fresh VHS
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19293/index.m3u8
-#EXTINF:0  group-title="Остальные", Fresh Fantastic
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19294/index.m3u8
-#EXTINF:0  group-title="Остальные", Fresh Adventure
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19297/index.m3u8
-#EXTINF:0  group-title="Остальные", Fresh Romantic
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19298/index.m3u8
-#EXTINF:0  group-title="Остальные", Fresh Russian
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19299/index.m3u8
-#EXTINF:0  group-title="Остальные", Fresh Thriller
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19300/index.m3u8
-#EXTINF:0  group-title="Остальные", Fresh Soviet
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19301/index.m3u8
-#EXTINF:0  group-title="Остальные", Драйв
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2021/index.m3u8
-#EXTINF:0  group-title="Остальные", Classic Music
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/14008/index.m3u8
-#EXTINF:0  group-title="Остальные", Bridge TV
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/122/index.m3u8
-#EXTINF:0  group-title="Остальные", Mezzo Live HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/208/index.m3u8
-#EXTINF:0  group-title="Остальные", Шансон ТВ
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/859/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU Kids HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11035/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU Kids+ HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11036/index.m3u8
 #EXTINF:0  group-title="Остальные", Liberty Мульт UKR 4K
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18044/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU Little HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/19425/index.m3u8
-#EXTINF:0  group-title="Остальные", Доктор HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/20013/index.m3u8
-#EXTINF:0  group-title="Остальные", Big Planet HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/20036/index.m3u8
-#EXTINF:0  group-title="Остальные", Museum 4K
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/14016/index.m3u8
-#EXTINF:0  group-title="Остальные", Инсайт ТВ UHD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/5000/index.m3u8
-#EXTINF:0  group-title="Остальные", TERRA
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/230/index.m3u8
-#EXTINF:0  group-title="Остальные", Живая природа HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2074/index.m3u8
-#EXTINF:0  group-title="Остальные", В мире животных HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2089/index.m3u8
-#EXTINF:0  group-title="Остальные", Приключения HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/920/index.m3u8
-#EXTINF:0  group-title="Остальные", Дикая охота HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2004/index.m3u8
-#EXTINF:0  group-title="Остальные", Дикая рыбалка HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2005/index.m3u8
-#EXTINF:0  group-title="Остальные", Авто Плюс
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/151/index.m3u8
-#EXTINF:0  group-title="Остальные", Наука HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2155/index.m3u8
-#EXTINF:0  group-title="Остальные", Усадьба
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/532/index.m3u8
-#EXTINF:0  group-title="Остальные", Охота и рыбалка
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2019/index.m3u8
-#EXTINF:0  group-title="Остальные", Телепутешествия
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2051/index.m3u8
-#EXTINF:0  group-title="Остальные", Nat Geo Wild HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2067/index.m3u8
-#EXTINF:0  group-title="Остальные", Оружие
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2087/index.m3u8
-#EXTINF:0  group-title="Остальные", Зоо ТВ
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2100/index.m3u8
-#EXTINF:0  group-title="Остальные", Живая Планета
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2101/index.m3u8
-#EXTINF:0  group-title="Остальные", Мужской
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2047/index.m3u8
-#EXTINF:0  group-title="Остальные", Загородная Жизнь
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/852/index.m3u8
-#EXTINF:0  group-title="Остальные", История
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/111/index.m3u8
-#EXTINF:0  group-title="Остальные", Pink Erotic 3
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/6240/index.m3u8
-#EXTINF:0  group-title="Остальные", Pink Erotic 4
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/6241/index.m3u8
-#EXTINF:0  group-title="Остальные", BCU Charm HD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/18053/index.m3u8
 #EXTINF:0  group-title="Остальные", MTV Viihde HD FI
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/2541/index.m3u8
-
-# Не рабочие
-#EXTINF:0  group-title="Не рабочие", Liberty Мульт UKR FHD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31659/index.m3u8
-#EXTINF:0  group-title="Не рабочие", Liberty Кино UKR FHD
-http://san1978.megatv.fun/iptv/CTF58AWU84F85E/31660/index.m3u8
+#EXTINF:0  group-title="Остальные", CineMan
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/11004/index.m3u8
+#EXTINF:0  group-title="Остальные", TLC HD
+http://san1978.megatv.fun/iptv/CTF58AWU84F85E/232/index.m3u8
