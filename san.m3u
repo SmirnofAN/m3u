@@ -1,5 +1,5 @@
 #EXTM3U #EXTM3U catchup="shift" catchup-days="3" url-tvg="http://ru.epg.one/epg2.xml.gz"
-# Основные
+# Основные 
 #EXTINF:0  group-title="Основные", НТВ HD
 http://san1978.megatv.fun/iptv/CTF58AWU84F85E/213/index.m3u8
 #EXTINF:0  group-title="Основные", НТВ +2
